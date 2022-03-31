@@ -1,0 +1,1 @@
+export const SET_CLOTHS='SET_CLOTHS'
